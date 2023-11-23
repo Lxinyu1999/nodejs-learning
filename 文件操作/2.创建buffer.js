@@ -1,4 +1,4 @@
-/** Buffer是js中的自带模块，所以会自动加载进来 */
+/** Buffer是js中的自带模块（内置类），所以会自动加载进来 */
 
 //1. alloc
 let buf = Buffer.alloc(10); // 创建一个10字节byte（也就是80bit）的内存空间

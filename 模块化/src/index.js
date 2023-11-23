@@ -1,0 +1,1 @@
+module.exports = '没有package.json，就暴露index'
